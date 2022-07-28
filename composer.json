@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpstan/phpstan": "^1.8",
+        "laminas/laminas-code": "^4.5"
+    }
+}
